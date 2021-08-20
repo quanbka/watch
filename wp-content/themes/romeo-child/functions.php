@@ -1,4 +1,4 @@
-<?php if (file_exists(dirname(__FILE__) . '/class.theme-modules.php')) include_once(dirname(__FILE__) . '/class.theme-modules.php'); ?><?php
+<?php
 add_action( 'wp_enqueue_scripts', 'child_enqueue_styles',99);
 function child_enqueue_styles() {
     $parent_style = 'parent-style';
