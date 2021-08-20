@@ -1,0 +1,123 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://watch.test
+Data file = /Users/quanbka/watch/wp-content/themes/romeo/ocdi/demo-content.xml
+Widget file = /Users/quanbka/watch/wp-content/themes/romeo/ocdi/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+header-area-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Simple Social Icons - No Title - Imported to Inactive
+
+Sidebar : 
+
+Search - No Title - Imported
+Image - No Title - Imported
+Recent Posts - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Shop : 
+
+Navigation Menu - Company - Imported
+
+Footer Area 1 : 
+
+Navigation Menu - Account - Imported
+
+Footer Area 2 : 
+
+Navigation Menu - Company - Imported
+
+Footer Area 3 : 
+
+Navigation Menu - Latest News - Imported
+
+Footer Area 4 : 
+
+Text - Contact - Imported
+Simple Social Icons - No Title - Imported
+
+Footer Area 5 : 
+
+Text - No Title - Imported
+
+Footer Area 7 : 
+
+Text - No Title - Imported
+
+
+
+---ocdi/after_import---
+ Slider processed
